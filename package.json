@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "proyecto con gulp , sass y html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IV-Valentin-IV/Festival-Musica-.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP"
+  ],
+  "author": "Valentín Rivera De Los Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IV-Valentin-IV/Festival-Musica-/issues"
+  },
+  "homepage": "https://github.com/IV-Valentin-IV/Festival-Musica-#readme"
+}
